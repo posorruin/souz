@@ -4,3 +4,4 @@ print("commit by Ушаков")
 print("new conflict")
 
 print("conflict by Ушаков")
+print("фил для конфликта")
